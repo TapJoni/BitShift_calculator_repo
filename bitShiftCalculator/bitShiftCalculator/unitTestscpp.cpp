@@ -76,5 +76,5 @@ TEST(TestBitShiftCalculator, BitShiftCalc) {
 	decimal_to_hexadecimal(decimal);
 
 	/************************************************************************************/
-
+	// 
 }
