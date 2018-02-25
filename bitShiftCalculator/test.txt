@@ -1,4 +1,1 @@
-This is a test
-
-
-another line in the test txt file
+For some reason the VS code is not showing in the github repository and I don't know why...
